@@ -1,3 +1,3 @@
 # Go_Twilio_API_integration-
-Instal Go development environment.
-you can simply run Go file go run main.go
+#Instal Go development environment.
+#Run this command:go run main.go
